@@ -1,5 +1,4 @@
-{ nixpkgs ? import <nixpkgs> {}, ... }:
-with nixpkgs;
+{ nixpkgs ? import <nixpkgs> {}, ... }: with nixpkgs;
 stdenv.mkDerivation {
   name = "thesauron";
   src = ./thesauron.md;
