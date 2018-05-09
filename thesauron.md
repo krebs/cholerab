@@ -17,7 +17,7 @@ thesauron - the krebs thesaurus
 ### _eigentlich_ adv. [de]
 - Hinweis darauf, dass der Inhalt eines Satzes eine Soll-Realität beschreibt,
   die nicht der Fall ist.\
-Antonym: tatsächlich
+Antonym: tatsaechlich
 
 
 ### _ghost_ n. [de]
@@ -31,7 +31,7 @@ Siehe: Wiederbelebung
 
 
 ### _krebs_ [de]
-- krebs ist ein soziales Experiment, eine Organisation, das zweit älteste
+- krebs ist ein soziales Experiment, eine Organisation, das zweit aelteste
   Softwareprojekt im Shack und viel verteilte infrastruktur.
 
 
@@ -73,7 +73,7 @@ Example:
 
 
 ### _Punching Lemma_ n. [de]
-- Sozialer Druck zur Aufrechterhaltung der Ordnung in dem sozialen Geflächt
+- Sozialer Druck zur Aufrechterhaltung der Ordnung in dem sozialen Geflaecht
   von Krebs
 
 
@@ -121,13 +121,13 @@ Example: (conclusion first)
 Antonym: Protip
 
 
-### _tatsächlich_ adv. [de]
+### _tatsaechlich_ adv. [de]
 - Hinweis darauf, dass der Inhalt eines Satzes exakt der Realität entspricht.\
 Antonym: eigentlich
 
 
 ### _Verkrebsung_ n. [de]
-- Synonym für die Installation von Krebs (oder eine einzelnen Krebs
+- Synonym fuer die Installation von Krebs (oder eine einzelnen Krebs
   Komponente) auf einem beliebigem System.
 
 
