@@ -103,3 +103,5 @@ fi
 - Active variant of Enterprise Waiting.
 
 
+# SEE ALSO
+  thesauron(1)

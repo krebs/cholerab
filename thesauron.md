@@ -141,3 +141,7 @@ Examples:
 ### _Wiederbelebung_ n. [de]
 - Ein ghost wird im Darknet wieder erreichbar\
 Siehe: ghost
+
+
+# SEE ALSO
+  enterprise-patterns(1)
