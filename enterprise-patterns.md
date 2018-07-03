@@ -20,6 +20,10 @@ Enterprise Patterns - Stellt sicher, dass das richtige passiert, egal was gemach
 
 
 ### Enterprise Installation
+- curl a shellscript directly into your interpreter
+```
+curl https://nixos.org/nix/install | sh
+```
 
 
 ### Rebooting
