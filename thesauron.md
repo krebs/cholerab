@@ -121,6 +121,17 @@ Example: (conclusion first)
 Antonym: Protip
 
 
+### _Super Effect_ n. [en]
+- An effect on top of the desired / planned effect(s).
+Examples:
+    - Software bugs / vulnerabilities
+    - "Aargh! My shell code isn't properly escaped and deletes /"
+
+
+### _super effective_ adj. [en]
+- Something that posseses one or more super effects.
+
+
 ### _tatsaechlich_ adv. [de]
 - Hinweis darauf, dass der Inhalt eines Satzes exakt der Realität entspricht.\
 Antonym: eigentlich
