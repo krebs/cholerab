@@ -95,6 +95,7 @@ Sanatorium n. [en]::
 * The Krebs Control and Command Center.
 * An Retiolum-based IRC-channel where all Reaktor-enabled nodes gather
 and lurk for relevant input.
+Realiter: `#xxx`
 
 [[Spoiler]] Spoiler n. [en]::
 * A subset of walkthrough, i.e. any individual steps may be omitted. +
