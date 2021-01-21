@@ -31,6 +31,9 @@ Short for Krebs Darknet / Retiolum Prefix.
 krebs [de]::
 krebs ist ein soziales Experiment, eine Organisation, das zweitälteste Softwareprojekt im Shack und viel verteilte infrastruktur.
 
+krebsgold [de]::
+Beschreibt die finanziellen Einnahmen von Krebs mit Hilfe von einfachen Affiliation Links auf der krebs website. Finanziert wird damit die Krebs Infrastrukur und Projekte des Krebs auf dem Chaos Communications Congress.
+
 kremium [en]::
 coinage derived from the words premium and krebs +
 see: broken +
